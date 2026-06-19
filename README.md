@@ -1,2 +1,2 @@
-# Imp-rio-Conex-es
+# Império-Conexões
 Site de conexão do Império RP
